@@ -5,6 +5,8 @@ This repository contains a human resources (HR) dashboard built with Looker Stud
 
 The HR dashboard in this repository provides an overview of key HR metrics such as percentage of employee by gender wise , headcount, and employee demographics. The dashboard includes several interactive visualizations that enable users to explore the data and gain insights into HR trends and patterns.
 
+**Link:-** https://lookerstudio.google.com/embed/reporting/9bb4a7ad-e9c0-4fb8-8fee-af06d6d95c71/page/DUgGD
+
 **Some of the key features of the HR dashboard include:**
 
 **Employee Pay Rate: Minimum/Maximum per Hour:-**
