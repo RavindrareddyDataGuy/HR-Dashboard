@@ -5,41 +5,41 @@ This repository contains a human resources (HR) dashboard built with Looker Stud
 
 The HR dashboard in this repository provides an overview of key HR metrics such as percentage of employee by gender wise , headcount, and employee demographics. The dashboard includes several interactive visualizations that enable users to explore the data and gain insights into HR trends and patterns.
 
-Some of the key features of the HR dashboard include:
+**Some of the key features of the HR dashboard include:**
 
-Employee Pay Rate: Minimum/Maximum per Hour:-
+**Employee Pay Rate: Minimum/Maximum per Hour:-**
 
 This component of the dashboard provides an overview of the minimum and maximum pay rates for employees on an hourly basis. By tracking these metrics, HR professionals and business leaders can gain insights into the compensation practices within the organization and ensure that they are competitive with industry standards.
 
-Distribution of Employees by City:-
+**Distribution of Employees by City:-**
 
 This component of the dashboard provides a breakdown of the distribution of employees by city. By analyzing this data, HR professionals and business leaders can gain insights into the geographic concentration of the workforce and identify potential areas for expansion or recruitment.
 
-Percentage of Male and Female Employees:-
+**Percentage of Male and Female Employees:-**
 
 This component of the dashboard provides a breakdown of the percentage of male and female employees. By analyzing this data, HR professionals and business leaders can gain insights into the gender balance within the organization and identify potential areas for improvement.
 
-Gender-wise Marital Status:-
+**Gender-wise Marital Status:-**
 
 This component of the dashboard provides a breakdown of the marital status of male and female employees. By analyzing this data, HR professionals and business leaders can gain insights into the demographic makeup of the workforce and identify potential areas for improvement in terms of diversity and inclusion.
 
-Department-wise Average Pay Rate:-
+**Department-wise Average Pay Rate:-**
 
 This component of the dashboard provides an overview of the average pay rates for different departments within the organization. By analyzing this data, HR professionals and business leaders can gain insights into the compensation practices for different roles and departments and identify potential areas for improvement.
 
-Department-wise Satisfaction:-
+**Department-wise Satisfaction:-**
 
 This component of the dashboard provides an overview of the job satisfaction levels for different departments within the organization. By analyzing this data, HR professionals and business leaders can gain insights into the engagement levels of employees and identify potential areas for improvement in terms of employee retention and job satisfaction.
 
-State-wise Male and Female Employee Count:-
+**State-wise Male and Female Employee Count:-**
 
 This component of the dashboard provides a breakdown of the employee count by gender for different states. By analyzing this data, HR professionals and business leaders can gain insights into the geographic distribution of the workforce and identify potential areas for improvement in terms of diversity and inclusion.
 
-City-wise Recruitment Source:-
+**City-wise Recruitment Source:-**
 
 This component of the dashboard provides an overview of the recruitment sources for different cities. By analyzing this data, HR professionals and business leaders can gain insights into the effectiveness of recruitment strategies for different regions and identify potential areas for improvement.
 
-Employee Satisfaction using Gauge Chart:-
+**Employee Satisfaction using Gauge Chart:-**
 
 This component of the dashboard provides an overview of the overall job satisfaction levels for the organization using a gauge chart. By analyzing this data, HR professionals and business leaders can gain insights into the engagement levels of employees and identify potential areas for improvement in terms of employee retention and job satisfaction.
 
